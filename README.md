@@ -12,3 +12,7 @@ h2. Usage
 h2. Example
 
 See `gol.html`
+
+h2. License
+
+This script is distributed under the MIT license and is free to used, modify, distribute, etc.
